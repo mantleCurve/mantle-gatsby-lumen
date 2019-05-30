@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  url: 'https://blog.mantlecurve.com',
+  title: 'Blog by Mithun Madhusoodanan',
+  subtitle: 'Someone who is in 0 1 business',
+  copyright: '',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 5,
+  googleAnalyticsId: '',
   menu: [
     {
       label: 'Articles',
@@ -23,14 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Mantle \'s Escapades',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'escapade@mantlecurve.com',
+      telegram: 'mantlecurve',
+      twitter: 'mantlecurve',
+      github: 'mantlecurve',
       rss: '#',
       vkontakte: '#'
     }
