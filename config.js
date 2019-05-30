@@ -32,7 +32,7 @@ module.exports = {
       twitter: 'mantlecurve',
       github: 'mantlecurve',
       rss: 'rss.xml',
-      // vkontakte: '#'
+      vkontakte: '#'
     }
   },
   siteMetadata: {
