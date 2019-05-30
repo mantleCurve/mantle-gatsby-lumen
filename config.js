@@ -31,8 +31,8 @@ module.exports = {
       telegram: 'mantlecurve',
       twitter: 'mantlecurve',
       github: 'mantlecurve',
-      rss: 'http://feeds.feedburner.com/mantleblog',
-      vkontakte: '#'
+      rss: 'rss.xml',
+      // vkontakte: '#'
     }
   },
   siteMetadata: {
